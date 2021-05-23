@@ -1,3 +1,3 @@
 # gojayme.github.io
 
-Website
+Professional website hosted with GitHub Pages
